@@ -24,7 +24,7 @@ ChanceCube.io is a web-based application that allows users to roll virtual dice.
 
 ## Usage
 
-1. Open your web browser and navigate to [ChanceCube.io](https://chancecube.io).
+1. Open your web browser and navigate to [ChanceCube.io]( https://akshay-coded.github.io/ChanceCube.io/).
 2. Customize your dice by selecting the number and type of dice.
 3. Click the "Roll" button to roll the dice and view the results.
 4. Have fun and use the results for your games or activities.
